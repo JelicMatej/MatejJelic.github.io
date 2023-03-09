@@ -27,8 +27,8 @@
           <ul class="vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown">
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About me</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#experiences">Experience</a></li>
+
+            <li><a href="#projects">Projects</a></li>
             <!-- <li class="has-submenu">
               <a href="#portfolio">Portfolio</a>
               <ul class="submenu menu vertical medium-vertical" data-submenu>
@@ -47,7 +47,7 @@
       <div class="name">
         <div>
           <h1>Matej Jeli&cacute;</h1>
-          <h2>Unity C# Programmer</h2>
+          <h2>Unity C# Programmer and VR Specialist</h2>
         </div>
       </div>
 
@@ -62,10 +62,10 @@
         <div id="resume"><a href="CV/MatejJelicCV.pdf" target="_blank">Resume</a></div>
       </div>
     </section>
-
+	
     <!-- SKILLS -->
     <!-- <a name="skills"></a> -->
-    <section id="skills" data-magellan-target="skills" class="skills">
+   <!-- <section id="skills" data-magellan-target="skills" class="skills">
       <dl>
         <dt>
           <h1 class="section-title">Skills</h1>
@@ -76,58 +76,68 @@
         <dd class="percentage percentage-50"><span class="text">Augmented Reality: 50%</span></dd>
       </dl>
     </section>
-
+    -->
     <!-- ***************************EXPERIENCES**************************** -->
     <!-- <a name="experiences"></a> -->
-    <section id="experience" data-magellan-target="experiences" class="experiences">
-      <h1>Experience</h1>
+    <section id="projects" data-magellan-target="projects" class="experiences">
+      <h1>PROJECTS</h1>
       <section class="timeline">
         <ul>
+		<li>
+            <div>
+            <h2>Vineyard AR</h2>
+            <h3>AR Development</h3>
+              I collaborated with Lean IT on developing an AR app called Vineyard AR that showcases the wine making process in an interactive way. 
+            <br>			 
+			 <h6> <a href="https://play.google.com/store/apps/details?id=com.LeanIT.VineyardAR" style="color: #3366CC;"> <b> Link to store page </b></a>
+			</div>
+            <span><time>2023</time></span>
+          </li>
+		<li>
+            <div>
+            <h2>Douche Art</h2>
+            <h3>VR Development</h3>
+              I participated in a week-long VR Game Jam with the theme of "One time use." Over the course of the jam, my team and I developed a unique virtual reality game that won third place in the competition.
+              <br>			 
+			 <h6> <a href="https://octoxr.itch.io/doucheart" style="color: #3366CC;"> <b> Link to Itch.io page </b></a>
+			 </div>
+            <span><time>2022</time></span>
+          </li>
 	   <li>
             <div>
             <h2>OCTO XR</h2>
-            <h3>VR Plugin for Unity</h3>
-              Worked on the OctoXR plugin on the unity asset store. The plugin enables users a quick and easy way to setup a Hand Tracking project. - https://spectrexr.io/octo-xr
+            <h3>VR Development</h3>
+              Worked on the OctoXR plugin on the unity asset store. The plugin enables users a quick and easy way to setup a Hand Tracking project.
+			<br>			 
+			 <h6> <a href="https://spectrexr.io/octo-xr" style="color: #3366CC;"> <b> Link to asset </b></a>
             </div>
             <span><time>2022</time></span>
           </li>
 	  <li>
-            <div>
-            <h2>Katančićev Vremeplov</h2>
-            <h3>VR Development</h3>
-              Did a VR project for the town of Valpovo, Croatia. The VR game was made to show the life and achievements of Matija Petar Katančić who lived in Valpovo in the 18th century. - https://www.youtube.com/watch?v=9PhMOR2Zqjo
-            </div>
-            <span><time>2022</time></span>
-          </li>
-	  <li>
-            <div>
-            <h2>Started working in SpectreXR</h2>
-            <h3>VR Development</h3>
-              Started working in SpectreXR as a Programmer and VR Specialist. - https://spectrexr.io/
-            </div>
-            <span><time>2021</time></span>
-          </li>
+	       <div>
+		   <h2>Katančićev Vremeplov</h2>
+		   <h3>VR Development</h3>
+			 I created a virtual reality experience for the town of Valpovo, Croatia, featuring the life and legacy of Matija Petar Katančić, a prominent figure from the 18th century. Through this project, I utilized my VR design and development skills to deliver an immersive and educational game that highlighted Katančić's contributions to the community. The experience was well-received and demonstrated my ability to apply VR technology to cultural and historical contexts.
+			<br>
+			<h6> <a href="https://www.youtube.com/watch?v=sLw7uM92F3g" style="color: #3366CC;"><b> Link to video </b></a>
+			</div>
+			<span><time>2022</time></span>
+			</li>
           <li>
             <div>
             <h2>Construction Crane Simulator VR</h2>
             <h3>VR Development</h3>
-              This project was made for Gamechucks d.o.o. Hackathon/Game Jam. The simulation has realistic crane operation controlls and physical interactions. It was made for teaching and improving crane operators. - https://www.youtube.com/watch?v=Q3t8_BUK6mI
-            </div>
+              This project was made for Gamechucks d.o.o. Hackathon/Game Jam. The simulation has realistic crane operation controlls and physical interactions. It was made for teaching and improving crane operators.
+			  <br>
+            <h6><a href="https://www.youtube.com/watch?v=Q3t8_BUK6mI" style="color: #3366CC;"> <b> Link to video </b></a>
+		  </div>
             <span><time>2021</time></span>
           </li>
 	  <li>
             <div>
             <h2>A1 Hrvatska d.o.o.</h2>
             <h3>AR Development</h3>
-               I did a project for A1 Croatia. The app showed models and information about phones in real space for A1 shops.
-            </div>
-            <span><time>2021</time></span>
-          </li>
-          <li>
-            <div>
-            <h2>Pismo Incubator</h2>
-            <h3>Unity C# Education</h3>
-              Finished a Unity C# Education in Pismo Inkubator, Novska, Croatia.
+				I led an Augmented Reality project for A1 Croatia. Using augmented reality technology, we developed a mobile app that allowed customers to view and interact with 3D models of phones in A1 shops.
             </div>
             <span><time>2021</time></span>
           </li>
@@ -135,8 +145,11 @@
             <div>
             <h2>Mira's Tale</h2>
             <h3>VR Development</h3>
-               Mira's Tale is my finals project at pismo inkubator. It is a story driven puzzle game with gesture based magic system. You play a witch(Mira) in search for her friend. - https://www.youtube.com/watch?v=SuBSlMhhUM0
-            </div>
+               Mira's Tale is my finals project at pismo inkubator. It is a story driven puzzle game with gesture based magic system. You play a witch(Mira) in search for her friend.
+			<br>
+			<h6> <a href="https://www.youtube.com/watch?v=SuBSlMhhUM0" style="color: #3366CC;"><b> Link to video</b></a>
+           
+		   </div>
             <span><time>2021</time></span>
           </li>
         </ul>
@@ -532,25 +545,12 @@
     <!-- <a name="contact"></a> -->
     <section id="contact" data-magellan-target="contact" class="page-section contact">
         <div class="container">
-          <div class="my-contact">
+          <div class="my-contact" style="display: align-items: center; text-align: center;">
             <h1>Contact</h1>
             <h2>Matej Jelic</h2>
             <p>krugisa.itch.io</p>
             <p>matejjelic96@gmail.com</p>
           </div>
-          <div class="email-form">
-            <h2>Leave a message</h2>
-            <form action="mailto:matejjelic96@gmail.com" method="post" enctype="text/plain">
-              Name:<br>
-              <input type="text" name="name"><br>
-              E-mail:<br>
-              <input type="text" name="mail"><br>
-              Message:<br>
-              <input type="text" name="comment" size="50"><br><br>
-              <input type="submit" value="Send">
-              <input type="reset" value="Reset">
-            </form>
-          </div>   
         </div>       
     </section>
     
