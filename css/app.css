@@ -16,7 +16,7 @@ div.title-bar {
 			background: black;
 		}
 		.top-bar-section a {
-			color: #ffb3b3;
+			color: #fff;;
 			font-weight: bold;
 			font-family: 'Josefin Sans', sans-serif;
 			font-size: 20px;
@@ -154,7 +154,7 @@ a:hover, a:active, a:focus {
 	}
 #resume {
 	cursor: pointer;
-	border: 1px solid #fff;
+	border: 1px solid #e06746;
 	border-radius: 5px;
 	margin:10px;
 	margin-bottom: 0;
@@ -166,7 +166,7 @@ a:hover, a:active, a:focus {
 	}
 	#resume:hover{
 		border: 1px solid #404040;
-		background-color: #404040;
+		background-color: #e06746;
 	}
 
 @media only screen and (min-width: 40rem) {
@@ -195,7 +195,7 @@ section.skills {
 	align-items: center;
 }
 .skills h1 {
-	color: #f76e6e;
+	color: #e06746;
 }
 
 .skills dl {
@@ -239,7 +239,7 @@ section.skills {
   .percentage::after {
     content: "";
     display: block;
-    background-color: #f76e6e;
+    background-color: #e06746;
     width: 50px;
     margin-bottom: 10px;
     height: 90%;
@@ -394,7 +394,7 @@ section.experiences {
 .timeline ul li:nth-child(odd) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
-  border-color: transparent #f76e6e transparent transparent;
+  border-color: transparent #e06746 transparent transparent;
 }
 
 .timeline ul li:nth-child(even) div {
@@ -404,7 +404,7 @@ section.experiences {
 .timeline ul li:nth-child(even) div::before {
   right: -15px;
   border-width: 8px 0 8px 16px;
-  border-color: transparent transparent transparent #f76e6e;
+  border-color: transparent transparent transparent #e06746;
 }
 
 time {
@@ -434,21 +434,21 @@ time {
 }
 
 .timeline ul li.in-view::after {
-  background: #f76e6e;
+  background: #e06746;
 }
 
 .timeline ul li div {
-  visibility: hidden;
-  opacity: 0;
-  transition: all .5s ease-in-out;
+  visibility: visible;
+  opacity: 0.05;
+  transition: all 0.7s ease-in-out;
 }
 
 .timeline ul li:nth-child(odd) div {
-  transform: translate3d(200px, 0, 0);
+  transform: translate3d(100px, 0, 0);
 }
 
 .timeline ul li:nth-child(even) div {
-  transform: translate3d(-200px, 0, 0);
+  transform: translate3d(-100px, 0, 0);
 }
 
 .timeline ul li.in-view div {
@@ -521,7 +521,7 @@ time {
 	.timeline ul li:nth-child(even) div::before {
 	left: -15px;
 	border-width: 8px 16px 8px 0;
-	border-color: transparent #f76e6e transparent transparent;
+	border-color: transparent #e06746 transparent transparent;
 	}
 
 
@@ -826,7 +826,7 @@ input[type=text] {
 
 input[type=submit], input[type=reset] {
 	margin-top: -20px;
-	background-color: #f76e6e;
+	background-color: #e06746;
 	color: #fff;
 	border: none;
     border-radius: 4px;
