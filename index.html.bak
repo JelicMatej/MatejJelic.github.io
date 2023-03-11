@@ -47,7 +47,7 @@
       <div class="name">
         <div>
           <h1>Matej Jeli&cacute;</h1>
-          <h2>Unity C# Programmer and VR Specialist</h2>
+          <h2>Unity Developer</h2>
         </div>
       </div>
 
@@ -58,7 +58,9 @@
     <section id="about" data-magellan-target="about">
       <div class="centered-container" id="bio">
         <h1 class="section-tBLABLABLAitle">About me</h1>
-        <p>I am a Unity Developer with a passion for Virtual Reality. I am from Croatia and currently working in SpectreXR.</p>
+        <p>Hi, I'm Matej Jelić, an aspiring game developer based in Vukovar, Croatia. My love for games started at a young age, and I've been captivated by the immersive experiences they offer ever since. I'm passionate about creating games that transport players to new worlds and challenge them to explore, learn, and grow. 
+		
+		<br><br> As a self-taught developer, I've spent countless hours learning about game development and exploring various games. With my strong technical skills, creativity, and drive to succeed, I'm committed to making my mark in the world of game development.</p>
         <div id="resume"><a href="CV/MatejJelicCV.pdf" target="_blank">Resume</a></div>
       </div>
     </section>
@@ -87,9 +89,18 @@
             <div>
             <h2>Vineyard AR</h2>
             <h3>AR Development</h3>
-              I collaborated with Lean IT on developing an AR app called Vineyard AR that showcases the wine making process in an interactive way. 
-            <br>			 
-			 <h6> <a href="https://play.google.com/store/apps/details?id=com.LeanIT.VineyardAR" style="color: #3366CC;"> <b> Link to store page </b></a>
+				 
+					• Implemented the AR Foundations package and created a stencil buffer to hide objects behind the portal, resulting in a seamless and realistic AR experience.
+				<br><br>			
+					• Created the portal and liquid shader, adding a visually stunning and immersive element to the AR experience.
+				<br><br>	
+					• Set up the lighting for the environments, enhancing the realism and mood of the AR experience.
+				<br><br>	
+					• Collaborated closely with a 3D artists to ensure that all assets and models created for the Vineyard AR app were of the highest quality and accurately represented the vineyard environment.
+				
+            <br><br>		 
+			 <h6> <a href="https://play.google.com/store/apps/details?id=com.LeanIT.VineyardAR" style="color: #FFFFFF;"> <b> <u>Link to store page </u></b></a>
+			
 			</div>
             <span><time>2023</time></span>
           </li>
@@ -97,9 +108,15 @@
             <div>
             <h2>Douche Art</h2>
             <h3>VR Development</h3>
-              I participated in a week-long VR Game Jam with the theme of "One time use." Over the course of the jam, my team and I developed a unique virtual reality game that won third place in the competition.
-              <br>			 
-			 <h6> <a href="https://octoxr.itch.io/doucheart" style="color: #3366CC;"> <b> Link to Itch.io page </b></a>
+				• Implemented the Oculus Interaction Toolkit and used the OctoXR plugin to integrate hand and controller-based interactions.
+				<br><br>
+				• Designed and implemented a fully physical "Sticking" mechanic for every interactable object, resulting in a more immersive and intuitive user experience.
+				<br><br>
+				• Implemented a JSON-based save system for saving the final sculptures, allowing users to easily share and showcase their creations.
+				<br><br>
+				• Designed and created a unique and intuitive inventory system for VR users, improving the accessibility and ease of use of the game.
+              <br><br>		 
+			 <h6> <a href="https://octoxr.itch.io/doucheart" style="color: #FFFFFF;"> <b><u> Link to Itch.io page </u></b></a>
 			 </div>
             <span><time>2022</time></span>
           </li>
@@ -107,9 +124,11 @@
             <div>
             <h2>OCTO XR</h2>
             <h3>VR Development</h3>
-              Worked on the OctoXR plugin on the unity asset store. The plugin enables users a quick and easy way to setup a Hand Tracking project.
-			<br>			 
-			 <h6> <a href="https://spectrexr.io/octo-xr" style="color: #3366CC;"> <b> Link to asset </b></a>
+				• Designed and tested future implementations and improved current implementations of the OctoXR plugin, ensuring its reliability and functionality.
+				<br><br>
+				• Designed and created demo apps to showcase the OctoXR plugin, effectively demonstrating its features and capabilities.
+			<br><br>			 
+			 <h6> <a href="https://spectrexr.io/octo-xr" style="color: #FFFFFF;"> <b><u> Link to asset </u></b></a>
             </div>
             <span><time>2022</time></span>
           </li>
@@ -117,27 +136,46 @@
 	       <div>
 		   <h2>Katančićev Vremeplov</h2>
 		   <h3>VR Development</h3>
-			 I created a virtual reality experience for the town of Valpovo, Croatia, featuring the life and legacy of Matija Petar Katančić, a prominent figure from the 18th century. Through this project, I utilized my VR design and development skills to deliver an immersive and educational game that highlighted Katančić's contributions to the community. The experience was well-received and demonstrated my ability to apply VR technology to cultural and historical contexts.
-			<br>
-			<h6> <a href="https://www.youtube.com/watch?v=sLw7uM92F3g" style="color: #3366CC;"><b> Link to video </b></a>
+				• Implemented the character controller and physical interactions, resulting in a smooth and responsive user experience.
+			<br><br>
+				• Created a simple pathfinding system for NPCs using Unity's Navmesh, improving the AI and realism of the game.
+			<br><br>
+				• Designed and implemented mini-games, adding variety and entertainment value to the game.
+			<br><br>
+				• Developed a custom Unity shader to intuitively signal level boundaries, enhancing user experience through seamless interaction design.
+			<br><br>
+				• Applied proficient Unity skills in level design to create immersive atmosphere, leveraging visual effects to enhance game mood and player engagement.
+			<br><br>
+				• Built a fully physical UI system for menus and displaying information, resulting in a more intuitive and user-friendly interface.
+			<br><br>
+				• Created a transitional loading scene that serves as a visual element and displays additional information to the user, improving the overall user experience.
+			<br><br>
+			<h6> <a href="https://www.youtube.com/watch?v=sLw7uM92F3g" style="color: #FFFFFF;"><b><u> Link to video</u> </b></a>
 			</div>
 			<span><time>2022</time></span>
 			</li>
           <li>
             <div>
-            <h2>Construction Crane Simulator VR</h2>
+            <h2>Construction Crane Training VR VR</h2>
             <h3>VR Development</h3>
-              This project was made for Gamechucks d.o.o. Hackathon/Game Jam. The simulation has realistic crane operation controlls and physical interactions. It was made for teaching and improving crane operators.
-			  <br>
-            <h6><a href="https://www.youtube.com/watch?v=Q3t8_BUK6mI" style="color: #3366CC;"> <b> Link to video </b></a>
+				• Conducted extensive research on real-life crane controls and training techniques to develop a realistic and effective training environment.
+			<br><br>
+				• Utilized Unity's physics engine and custom scripts to create a dynamic and realistic cable system that responds accurately to user input and the environment.
+			<br><br>
+            <h6><a href="https://www.youtube.com/watch?v=Q3t8_BUK6mI" style="color: #FFFFFF;"> <b><u> Link to video </u></b></a>
 		  </div>
             <span><time>2021</time></span>
           </li>
 	  <li>
             <div>
-            <h2>A1 Hrvatska d.o.o.</h2>
+            <h2>AR Phone Display Room For A1 Hrvatska d.o.o.</h2>
             <h3>AR Development</h3>
-				I led an Augmented Reality project for A1 Croatia. Using augmented reality technology, we developed a mobile app that allowed customers to view and interact with 3D models of phones in A1 shops.
+				• Led the development of an AR phone display room for A1 Hrvatska using Unity's AR Foundation plugin, enabling users to view and interact with virtual products.
+			<br><br>
+				• Designed and implemented an intuitive and user-friendly UI system tailored specifically to the AR environment, utilizing best practices for AR interface design and usability.
+			<br><br>
+				• Collaborated closely with a 3D artist to maximize asset and model optimization, ensuring the highest level of performance for the application.
+
             </div>
             <span><time>2021</time></span>
           </li>
@@ -145,9 +183,20 @@
             <div>
             <h2>Mira's Tale</h2>
             <h3>VR Development</h3>
-               Mira's Tale is my finals project at pismo inkubator. It is a story driven puzzle game with gesture based magic system. You play a witch(Mira) in search for her friend.
-			<br>
-			<h6> <a href="https://www.youtube.com/watch?v=SuBSlMhhUM0" style="color: #3366CC;"><b> Link to video</b></a>
+				• Implemented the XR Interaction Toolkit, resulting in a more intuitive and immersive user experience.
+			<br><br>
+				• Wrote the story and the interactions of the NPCs, creating a compelling and engaging game.
+			<br><br>
+				• Coordinated and directed the voice actors, resulting in high-quality voice acting and a cohesive narrative.
+			<br><br>
+				• Designed and implemented a gesture-based magic system, adding an innovative and exciting gameplay element to the game.
+			<br><br>
+				• Implemented a subtitle system for the dialogue, improving accessibility and user experience.
+			<br><br>
+				• Designed and developed the game levels, incorporating gameplay mechanics and visual elements to create an immersive experience for players.
+
+			<br><br>
+			<h6> <a href="https://www.youtube.com/watch?v=SuBSlMhhUM0" style="color: #FFFFFF;"><b><u> Link to video</u></b></a>
            
 		   </div>
             <span><time>2021</time></span>
@@ -159,7 +208,7 @@
     <!-- ********************************PORTFOLIO ************************-->
     <!-- <a name="portfolio"></a> -->
     <section id="portfolio" data-magellan-target="portfolio" class="page-section portfolio">
-      <h1>Portfolio</h1>
+      <h1> <a style="color: #FFFFFF;"> Portfolio </a></h1>
       <!-- <ul class="">
         <li id="graphic"><a href="pages/graphic">Graphic Design</a></li>
         <li id="frontend"><a href="pages/frontend">UI/UX Design and <br> Front-end Development</a></li>
@@ -545,7 +594,7 @@
     <!-- <a name="contact"></a> -->
     <section id="contact" data-magellan-target="contact" class="page-section contact">
         <div class="container">
-          <div class="my-contact" style="display: align-items: center; text-align: center;">
+          <div class="my-contact" >
             <h1>Contact</h1>
             <h2>Matej Jelic</h2>
             <p>krugisa.itch.io</p>
