@@ -89,18 +89,18 @@
             <div>
             <h2>Vineyard AR</h2>
             <h3>AR Development</h3>
-				 
+				<h4>  
 					• Implemented the AR Foundations package and created a stencil buffer to hide objects behind the portal, resulting in a seamless and realistic AR experience.
-				<br><br>			
+				<br>			
 					• Created the portal and liquid shader, adding a visually stunning and immersive element to the AR experience.
-				<br><br>	
+				<br>	
 					• Set up the lighting for the environments, enhancing the realism and mood of the AR experience.
-				<br><br>	
+				<br>	
 					• Collaborated closely with a 3D artists to ensure that all assets and models created for the Vineyard AR app were of the highest quality and accurately represented the vineyard environment.
-				
-            <br><br>		 
-			 <h6> <a href="https://play.google.com/store/apps/details?id=com.LeanIT.VineyardAR" style="color: #FFFFFF;"> <b> <u>Link to store page </u></b></a>
-			
+				</h4> 
+            	 
+			 <h5> <a href="https://play.google.com/store/apps/details?id=com.LeanIT.VineyardAR" style="color: #FFFFFF;"> <b> <u>Link to store page </u></b></a>
+			</h5>
 			</div>
             <span><time>2023</time></span>
           </li>
@@ -108,6 +108,7 @@
             <div>
             <h2>Douche Art</h2>
             <h3>VR Development</h3>
+			<h4> 	
 				• Implemented the Oculus Interaction Toolkit and used the OctoXR plugin to integrate hand and controller-based interactions.
 				<br><br>
 				• Designed and implemented a fully physical "Sticking" mechanic for every interactable object, resulting in a more immersive and intuitive user experience.
@@ -115,8 +116,9 @@
 				• Implemented a JSON-based save system for saving the final sculptures, allowing users to easily share and showcase their creations.
 				<br><br>
 				• Designed and created a unique and intuitive inventory system for VR users, improving the accessibility and ease of use of the game.
-              <br><br>		 
-			 <h6> <a href="https://octoxr.itch.io/doucheart" style="color: #FFFFFF;"> <b><u> Link to Itch.io page </u></b></a>
+            </h4>  	 
+			 <h5>> <a href="https://octoxr.itch.io/doucheart" style="color: #FFFFFF;"> <b><u> Link to Itch.io page </u></b></a>
+			 </h5>
 			 </div>
             <span><time>2022</time></span>
           </li>
@@ -124,19 +126,22 @@
             <div>
             <h2>OCTO XR</h2>
             <h3>VR Development</h3>
+			<h4> 
 				• Designed and tested future implementations and improved current implementations of the OctoXR plugin, ensuring its reliability and functionality.
 				<br><br>
 				• Designed and created demo apps to showcase the OctoXR plugin, effectively demonstrating its features and capabilities.
-			<br><br>			 
-			 <h6> <a href="https://spectrexr.io/octo-xr" style="color: #FFFFFF;"> <b><u> Link to asset </u></b></a>
-            </div>
+			</h4> 
+					 
+			 <h5> <a href="https://spectrexr.io/octo-xr" style="color: #FFFFFF;"> <b><u> Link to asset </u></b></a>
+            </h5>
+			</div>
             <span><time>2022</time></span>
           </li>
 	  <li>
 	       <div>
 		   <h2>Katančićev Vremeplov</h2>
 		   <h3>VR Development</h3>
-				• Implemented the character controller and physical interactions, resulting in a smooth and responsive user experience.
+				<h4> • Implemented the character controller and physical interactions, resulting in a smooth and responsive user experience.
 			<br><br>
 				• Created a simple pathfinding system for NPCs using Unity's Navmesh, improving the AI and realism of the game.
 			<br><br>
@@ -149,33 +154,37 @@
 				• Built a fully physical UI system for menus and displaying information, resulting in a more intuitive and user-friendly interface.
 			<br><br>
 				• Created a transitional loading scene that serves as a visual element and displays additional information to the user, improving the overall user experience.
-			<br><br>
-			<h6> <a href="https://www.youtube.com/watch?v=sLw7uM92F3g" style="color: #FFFFFF;"><b><u> Link to video</u> </b></a>
+			</h4> 
+			
+			<h5> <a href="https://www.youtube.com/watch?v=sLw7uM92F3g" style="color: #FFFFFF;"><b><u> Link to video</u> </b></a>
+			</h5>
 			</div>
 			<span><time>2022</time></span>
 			</li>
           <li>
             <div>
-            <h2>Construction Crane Training VR VR</h2>
+            <h2>Construction Crane Training VR</h2>
             <h3>VR Development</h3>
-				• Conducted extensive research on real-life crane controls and training techniques to develop a realistic and effective training environment.
+				<h4> • Conducted extensive research on real-life crane controls and training techniques to develop a realistic and effective training environment.
 			<br><br>
-				• Utilized Unity's physics engine and custom scripts to create a dynamic and realistic cable system that responds accurately to user input and the environment.
-			<br><br>
-            <h6><a href="https://www.youtube.com/watch?v=Q3t8_BUK6mI" style="color: #FFFFFF;"> <b><u> Link to video </u></b></a>
-		  </div>
+				 • Utilized Unity's physics engine and custom scripts to create a dynamic and realistic cable system that responds accurately to user input and the environment.
+			
+			</h4> 
+            <h5><a href="https://www.youtube.com/watch?v=Q3t8_BUK6mI" style="color: #FFFFFF;"> <b><u> Link to video </u></b></a>
+			</h5>
+		 </div>
             <span><time>2021</time></span>
           </li>
 	  <li>
             <div>
             <h2>AR Phone Display Room For A1 Hrvatska d.o.o.</h2>
             <h3>AR Development</h3>
-				• Led the development of an AR phone display room for A1 Hrvatska using Unity's AR Foundation plugin, enabling users to view and interact with virtual products.
+			<h4> 	• Led the development of an AR phone display room for A1 Hrvatska using Unity's AR Foundation plugin, enabling users to view and interact with virtual products.
 			<br><br>
 				• Designed and implemented an intuitive and user-friendly UI system tailored specifically to the AR environment, utilizing best practices for AR interface design and usability.
 			<br><br>
 				• Collaborated closely with a 3D artist to maximize asset and model optimization, ensuring the highest level of performance for the application.
-
+			</h4> 
             </div>
             <span><time>2021</time></span>
           </li>
@@ -183,7 +192,7 @@
             <div>
             <h2>Mira's Tale</h2>
             <h3>VR Development</h3>
-				• Implemented the XR Interaction Toolkit, resulting in a more intuitive and immersive user experience.
+			<h4> 	• Implemented the XR Interaction Toolkit, resulting in a more intuitive and immersive user experience.
 			<br><br>
 				• Wrote the story and the interactions of the NPCs, creating a compelling and engaging game.
 			<br><br>
@@ -194,10 +203,10 @@
 				• Implemented a subtitle system for the dialogue, improving accessibility and user experience.
 			<br><br>
 				• Designed and developed the game levels, incorporating gameplay mechanics and visual elements to create an immersive experience for players.
-
-			<br><br>
-			<h6> <a href="https://www.youtube.com/watch?v=SuBSlMhhUM0" style="color: #FFFFFF;"><b><u> Link to video</u></b></a>
-           
+			</h4> 
+			
+			<h5> <a href="https://www.youtube.com/watch?v=SuBSlMhhUM0" style="color: #FFFFFF;"><b><u> Link to video</u></b></a>
+           </h5>
 		   </div>
             <span><time>2021</time></span>
           </li>
@@ -596,7 +605,7 @@
         <div class="container">
           <div class="my-contact" >
             <h1>Contact</h1>
-            <h2>Matej Jelic</h2>
+            <h2>Matej Jelić</h2>
             <p>krugisa.itch.io</p>
             <p>matejjelic96@gmail.com</p>
           </div>

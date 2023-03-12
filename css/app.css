@@ -157,10 +157,13 @@ a:hover, a:active, a:focus {
 	border: 1px solid #e06746;
 	border-radius: 5px;
 	margin:10px;
-	margin-bottom: 0;
+	margin-bottom: 1;
 }
 	#resume a{
-		padding: 0 1rem;
+		padding-left: 32px;
+		padding-right: 32px;
+		padding-bottom: 16px;
+		padding-top: 16px;
 		color: #ffffff;
 		font-size: 1em;
 	}
@@ -177,7 +180,7 @@ a:hover, a:active, a:focus {
 		font-size: 2em;
 	}
 	#resume {
-		margin-top: 20px;
+		margin-top: 100px;
 	}
 	 
 }
@@ -335,13 +338,28 @@ section.experiences {
 	text-align: center;
 }
 .experiences h2{
-	font-size: 1.25em;
+	
+	font-size: 24px;
+	line-height: 28px;
 	font-weight: 700;
 }
 .experiences h3 {
-	font-size: 1em;
-	margin-top: -10px;
+	opacity: 100%;
+	font-size: 18px;
+	line-height: 24px;
+	margin-top: 14px;
+	margin-bottom: 10px;
 }
+.experiences h4 {
+	font-size: 16px;
+	
+}.experiences h5 {
+	font-size: 16px;
+	margin-top: 28px;
+
+	
+}
+
 .timeline ul {
   padding: 30px;
   margin: 0;
@@ -577,7 +595,7 @@ ul.tab {
     /*border: 1px solid #ccc;*/
     display: flex;
 	justify-content: center;
-    background-color: #404040; 	
+    background-color: transparent; 	
   	width: 80%;
 }
 
@@ -593,20 +611,23 @@ ul.tab li a {
 	width: 100%;
 	height: 100%;
     display: inline-block;
-    color: #ffcccc;
+    color: #fff;
     text-align: center;
     text-decoration: none;
     transition: 0.3s;
     font-size: 14px;
     font-weight: 700;
     padding: 10px 8px;
+	border: 2px solid #e06746;
+	border-radius: 5px;
+	
 }
 
 /* Change background color of links on hover */
-ul.tab li a:hover {background-color: #505050;}
+ul.tab li a:hover {background-color: #963d24;}
 
 /* Create an active/current tablink class */
-ul.tab li a:focus, .active {background-color: #000;}
+ul.tab li a:focus, .active {background-color: #e06746;}
 
 /* Style the tab content */
 div.tabcontent {
@@ -813,6 +834,7 @@ section.contact {
 	}
 	
 	.my-contact, .email-form {
+		text-align: center;
 		display: block;
 	}
 	.my-contact {
@@ -846,7 +868,7 @@ input[type=submit], input[type=reset] {
 		line-height: 2rem;
 	}
 	.contact h1 {
-		text-align: left;
+		text-align: center;
 	}
 
 	.container {
@@ -856,10 +878,11 @@ input[type=submit], input[type=reset] {
 	}
 
 	.my-contact, .email-form {
-		width: 40vw;
+		width: 100%;
 		display: inline-block;
 		padding: 20px;
 		margin: 20px;
+		text-align: center;
 	}
 	.my-contact h2 {
 		margin: 1em 0;
