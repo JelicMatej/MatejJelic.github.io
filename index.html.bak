@@ -141,7 +141,7 @@
 	       <div>
 		   <h2>Katančićev Vremeplov</h2>
 		   <h3>VR Development</h3>
-				<h4> • Implemented the character controller and physical interactions, resulting in a smooth and responsive user experience.
+				<h4> • Implemented a character controller and physical interactions, resulting in a smooth and responsive user experience.
 			<br><br>
 				• Created a simple pathfinding system for NPCs using Unity's Navmesh, improving the AI and realism of the game.
 			<br><br>
